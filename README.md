@@ -1,7 +1,7 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-Sri Harish B (212223220110)
+Taranikka A (212223220115)
 
 # Ex03-Linux IPC - Pipes
 
